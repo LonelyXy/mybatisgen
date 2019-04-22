@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e59bf2c-46e7-4eb5-a058-08f2c7549dee" name="Default" comment="测试">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="4e59bf2c-46e7-4eb5-a058-08f2c7549dee" name="Default" comment="uu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -340,7 +340,7 @@
       <workItem from="1545105259514" duration="2000" />
       <workItem from="1545123606490" duration="484000" />
       <workItem from="1555920756378" duration="2053000" />
-      <workItem from="1555922992029" duration="1309000" />
+      <workItem from="1555922992029" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="重大修改">
       <created>1555923892053</created>
@@ -370,11 +370,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555924289713</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="uu">
+      <created>1555924450652</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555924450652</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12007000" />
+    <option name="totallyTimeSpent" value="12081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="0" />
@@ -415,7 +422,8 @@
     <MESSAGE value="重大修改" />
     <MESSAGE value="测试123" />
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="uu" />
+    <option name="LAST_COMMIT_MESSAGE" value="uu" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xy/dtboot/mapping/SysConfigMapper.xml" />
